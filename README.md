@@ -42,3 +42,5 @@ Hear a preview of songs in your library as you hover over them, just as you're u
 
 Great news for you though! Plugin Manager can now find this, so it's easier than ever to install!
 Any issues, please open a PR!
+
+[AGPL-3.0-only](LICENSE.md)
